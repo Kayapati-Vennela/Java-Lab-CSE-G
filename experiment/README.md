@@ -22,6 +22,4 @@ class main{
 }
 ```
 ## output 
-![output for mechanism in java](https://github.com/Kayapati-Vennela/Java-Lab-CSE-G/blob/926650b1014e6c42bc50aa50e2a9aed0f11a204a/Screenshot%202025-12-30%20154342.png)
-
-
+![output for mechanism in java]()
